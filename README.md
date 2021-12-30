@@ -1,3 +1,5 @@
+> Learnings from the "Web Development 301 - Typed Functional Programming" course as part of the Coronasafe Engineering Fellowship 2020
+
 ## Getting Started
 
 ```
